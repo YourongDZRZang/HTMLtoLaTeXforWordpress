@@ -16,6 +16,7 @@ Change all parameters in ```main.java``` to fit your need. Paste your code, from
 - ```\maketitle```, ```\newpage```
 - All commands not supported by WordPress LaTeX
 - ```\renewcommand``` (currently working on this one)
+- Figures
 
 If your code does contain any one of them, please follow these solutions respectively that can work out:
 - change ```\begin{alignat}``` to ```\begin{align}``` or ```\begin{equation}```
@@ -24,6 +25,7 @@ If your code does contain any one of them, please follow these solutions respect
 - Simply delete```\maketitle``` or ```\newpage```, and try to edit your website to achieve the same effect.
 - Give up all commands not supported by WordPress LaTeX
 - Delete ```\renewcommand``` (you CAN still keep your ```\newcommand``` parts)
+- Do it in Wordpress
 
 ## Contributing
 
