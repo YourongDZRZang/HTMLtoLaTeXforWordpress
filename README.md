@@ -32,7 +32,7 @@ If your code does contain any one of them, please follow these solutions respect
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 There are some existing bugs that are acknowledged by the creator. He is working on them. Current problems
-- Parentheses counting errors when handling ```\newcommand```
+- ~~Parentheses counting errors when handling ```\newcommand```~~
 - No algorithm for dividing lengthy inline formulas
 - Cannot handle ```\renewcommand```
 
